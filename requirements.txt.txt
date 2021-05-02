@@ -1,0 +1,9 @@
+tensorflow
+keras
+numpy
+pillow
+cv2
+flask
+dlib
+pylab
+flask_cors
